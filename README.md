@@ -33,10 +33,10 @@ Setup Instructions (Local):
 - npx playwright test
 
 5. Run a specific task:
-# Test-1: 
+- Test-1: 
 - npx playwright test tests/(testname1).spec.js
 
-# Test-2:
+- Test-2:
 - npx playwright test tests/(testname2).spec.js
 
 6. Run the specific test in headed mode
